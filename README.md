@@ -1,2 +1,2 @@
-# works-show-platfor
-SICAU IOT works show platfor
+# works-show-platform
+SICAU IOT works show platform
